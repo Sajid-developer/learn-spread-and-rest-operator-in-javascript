@@ -2,7 +2,7 @@
 ✨ All about concept of Spread & Rest operator in JavaScript.
 
 
-### The Spread and Rest operators (`...`) in JavaScript are very powerful and commonly used in modern code. They look the same (`...`) but behave differently depending on the context.
+### The Spread and Rest operators `...` in JavaScript are very powerful and commonly used in modern code. They look the same `...` but behave differently depending on the context.
 
 Let me explain both of them clearly and properly, step by step with examples for each use case. 🔍
 
