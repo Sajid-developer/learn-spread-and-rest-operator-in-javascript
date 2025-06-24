@@ -125,11 +125,3 @@ console.log(rest); // { age: 25, email: 'sajid@gmail.com' }
 
 
 Thanks for reading 🙏🏼
-
-
-
-
-
-
-
-
