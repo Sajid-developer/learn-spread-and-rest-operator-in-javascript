@@ -9,7 +9,7 @@ Let me explain both of them clearly and properly, step by step with examples for
 ---
 
 
-## 🔹 (`...) Spread Operator :
+## 🔹 (...) Spread Operator :
 
 -> The spread operator is used to expand an array or object into individual elements or properties.
 
